@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jimmcq-lemonade-stand-mcp-server-badge.png)](https://mseep.ai/app/jimmcq-lemonade-stand-mcp-server)
+
 # 🍋 Lemonade Stand MCP Server
 
 A simple, working example of a Model Context Protocol (MCP) server that lets you play the classic Lemonade Stand game through Claude Desktop.
